@@ -174,9 +174,10 @@ Python 3.10+, pandas, numpy, scikit-learn, scipy, matplotlib, Pillow, Jupyter.
 [![Kaggle](https://img.shields.io/badge/Kaggle-kerimkerimov-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/kerimkerimov)<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kerim--kerimov-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kerim-kerimov-79323b400)<br>
 [![LeetCode](https://img.shields.io/badge/LeetCode-KerimK-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/KerimK)<br>
-[![Telegram](https://img.shields.io/badge/Telegram-@theDagestani-26A5E4?logo=telegram&logoColor=white)](https://t.me/theDagestani)
+[![Email](https://img.shields.io/badge/Email-k.kerimow%40yandex.ru-EA4335?logo=gmail&logoColor=white)](mailto:k.kerimow@yandex.ru)<br>
+[![Telegram](https://img.shields.io/badge/Telegram-@theDagestani-26A5E4?logo=telegram&logoColor=white)](https://t.me/theDagestani)<br>
 
-📍 Москва · ✉️ [k.kerimow@yandex.ru](mailto:k.kerimow@yandex.ru)
+📍 Москва
 
 ## 📄 Лицензия
 
