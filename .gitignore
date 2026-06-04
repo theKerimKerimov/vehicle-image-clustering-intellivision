@@ -34,5 +34,6 @@ data/descriptors/*.pickle
 *.dll
 *.dylib
 
-# Явно сохраняем итоговую разметку
+# Явно сохраняем CSV в репозитории
 !data/clustering_results_best.csv
+!data/images_paths.csv

@@ -30,8 +30,8 @@ vehicle-image-clustering-intellivision/
 ├── data/
 │   ├── descriptors/                 # Дескрипторы четырёх моделей (*.pickle), не в Git
 │   ├── raw_data/                    # Изображения veriwild после распаковки, не в Git
-│   ├── images_paths.csv             # Пути к изображениям (1:1 с дескрипторами)
-│   └── clustering_results_best.csv  # Разметка подвыборки 80k (см. ниже)
+│   ├── images_paths.csv             # В Git: 416 314 путей (1:1 с дескрипторами)
+│   └── clustering_results_best.csv  # В Git: разметка подвыборки 80k (см. ниже)
 ├── docs/
 │   └── images/                      # Скриншоты для README (опционально)
 ├── notebooks/
@@ -44,32 +44,39 @@ vehicle-image-clustering-intellivision/
 
 ## 📂 Данные
 
-Объём исходных данных (дескрипторы и изображения) большой, поэтому они **не включены** в репозиторий.
+### Что уже в репозитории
 
-### Откуда взять файлы
+| Файл | Содержимое |
+|------|------------|
+| `data/images_paths.csv` | 416 314 относительных путей к изображениям (`veriwild/...`), согласованы с pickle-дескрипторами |
+| `data/clustering_results_best.csv` | Итоговая кластерная разметка для подвыборки 80 000 объектов (см. таблицу ниже) |
 
-1. **Дескрипторы и `images_paths.csv`** — из материалов учебного кейса IntelliVision (архив с pickle-файлами и CSV). Если у вас нет доступа к курсу, напишите автору репозитория (контакты ниже).
-2. **Изображения VeRi-Wild** — официальный репозиторий и инструкции по загрузке: [JDAI-CV/VeRi](https://github.com/JDAI-CV/VeRi). Распакуйте так, чтобы пути в CSV совпадали с `veriwild/...` внутри `data/raw_data/`.
+После клонирования эти файлы уже лежат в `data/` — отдельно скачивать их не нужно.
+
+### Что нужно добавить локально
+
+Дескрипторы и сами изображения **тяжёлые** и в Git **не входят**:
+
+1. **Дескрипторы** (`*.pickle` в `data/descriptors/`) — из материалов учебного кейса IntelliVision. Если нет доступа к архиву кейса, напишите автору репозитория (контакты ниже).
+2. **Изображения VeRi-Wild** — [JDAI-CV/VeRi](https://github.com/JDAI-CV/VeRi). Распакуйте в `data/raw_data/`, чтобы пути совпадали с `images_paths.csv` (`veriwild/...`).
 
 ### Размещение в проекте
 
 ```text
 data/
-├── descriptors/
+├── descriptors/          # не в Git — положить вручную
 │   ├── efficientnet-b7.pickle
 │   ├── osnet.pickle
 │   ├── vdc_color.pickle
 │   └── vdc_type.pickle
-├── raw_data/
+├── raw_data/             # не в Git — распаковать veriwild
 │   └── veriwild/
 │       └── ...
-├── images_paths.csv
-└── clustering_results_best.csv   # создаётся ноутбуком или уже лежит в репо
+├── images_paths.csv      # в Git
+└── clustering_results_best.csv   # в Git (перезаписывается ноутбуком при Run All)
 ```
 
-### Итоговый CSV в репозитории
-
-Файл `data/clustering_results_best.csv` — **разметка подвыборки 80 000 объектов** (`random_state=42`), а не полного датасета (416 314):
+### `clustering_results_best.csv`
 
 | Параметр | Значение |
 |----------|----------|
@@ -134,7 +141,7 @@ pip install -r requirements.txt
 
 ### Подготовка данных
 
-См. раздел [Данные](#-данные): положите pickle, CSV и распакованный `veriwild` в `data/`.
+См. раздел [Данные](#-данные): `images_paths.csv` и `clustering_results_best.csv` уже в репозитории; дополнительно нужны только pickle в `data/descriptors/` и изображения в `data/raw_data/veriwild/`.
 
 ### Запуск ноутбука
 
