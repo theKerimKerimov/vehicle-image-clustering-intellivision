@@ -178,7 +178,7 @@ Python 3.10+, pandas, numpy, scikit-learn, scipy, matplotlib, Pillow, Jupyter.
 
 ## 👤 Автор
 
-**Karim** · Москва · 2026
+**Karim** · 2026
 
 [![GitHub](https://img.shields.io/badge/GitHub-theKerimKerimov-181717?logo=github)](https://github.com/theKerimKerimov)
 [![Kaggle](https://img.shields.io/badge/Kaggle-kerimkerimov-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/kerimkerimov)
