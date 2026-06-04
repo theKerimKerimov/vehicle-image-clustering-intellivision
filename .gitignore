@@ -1,0 +1,38 @@
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+*.pyo
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Virtual environments and secrets
+venv/
+.venv/
+.env
+.env/
+*.env.local
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Project data (тяжёлые файлы, которые не нужны в репо)
+data/descriptors/
+data/raw_data/
+data/veriwild/
+data/*.zip
+data/descriptors/*.pickle
+*.pickle
+
+# Логи и временные файлы
+*.log
+*.tmp
+*.bak
+
+# Комpилированные/вспомогательные файлы
+*.so
+*.dll
+*.dylib
+
+# Явно сохраняем итоговую разметку
+!data/clustering_results_best.csv
