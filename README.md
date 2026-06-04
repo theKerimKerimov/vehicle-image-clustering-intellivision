@@ -172,49 +172,11 @@ Python 3.10+, pandas, numpy, scikit-learn, scipy, matplotlib, Pillow, Jupyter.
 
 **Karim** · 2026
 
-- GitHub: [@theKerimKerimov](https://github.com/theKerimKerimov)
-- Kaggle: [@kerimkerimov](https://www.kaggle.com/kerimkerimov)
-- Email: k.kerimow@yandex.ru
-
-## 👤 Автор
-
-**Karim** · 2026
-
-[![GitHub](https://img.shields.io/badge/GitHub-theKerimKerimov-181717?logo=github)](https://github.com/theKerimKerimov)
-[![Kaggle](https://img.shields.io/badge/Kaggle-kerimkerimov-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/kerimkerimov)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kerim--kerimov-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kerim-kerimov-79323b400)
-[![LeetCode](https://img.shields.io/badge/LeetCode-KerimK-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/KerimK)
-[![Telegram](https://img.shields.io/badge/Telegram-@theDagestani-26A5E4?logo=telegram&logoColor=white)](https://t.me/theDagestani)
-
-📍 Москва · ✉️ [k.kerimow@yandex.ru](mailto:k.kerimow@yandex.ru)
-
-[![GitHub](https://img.shields.io/badge/GitHub-theKerimKerimov-181717?logo=github)](https://github.com/theKerimKerimov)
-
-[![Kaggle](https://img.shields.io/badge/Kaggle-kerimkerimov-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/kerimkerimov)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kerim--kerimov-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kerim-kerimov-79323b400)
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-KerimK-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/KerimK)
-
-[![Telegram](https://img.shields.io/badge/Telegram-@theDagestani-26A5E4?logo=telegram&logoColor=white)](https://t.me/theDagestani)
-
-📍 Москва · ✉️ [k.kerimow@yandex.ru](mailto:k.kerimow@yandex.ru)
-
 [![GitHub](https://img.shields.io/badge/GitHub-theKerimKerimov-181717?logo=github)](https://github.com/theKerimKerimov)<br>
 [![Kaggle](https://img.shields.io/badge/Kaggle-kerimkerimov-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/kerimkerimov)<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kerim--kerimov-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kerim-kerimov-79323b400)<br>
 [![LeetCode](https://img.shields.io/badge/LeetCode-KerimK-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/KerimK)<br>
 [![Telegram](https://img.shields.io/badge/Telegram-@theDagestani-26A5E4?logo=telegram&logoColor=white)](https://t.me/theDagestani)
-
-📍 Москва · ✉️ [k.kerimow@yandex.ru](mailto:k.kerimow@yandex.ru)
-
-| |
-|:--|
-| [![GitHub](https://img.shields.io/badge/GitHub-theKerimKerimov-181717?logo=github)](https://github.com/theKerimKerimov) |
-| [![Kaggle](https://img.shields.io/badge/Kaggle-kerimkerimov-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/kerimkerimov) |
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-kerim--kerimov-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kerim-kerimov-79323b400) |
-| [![LeetCode](https://img.shields.io/badge/LeetCode-KerimK-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/KerimK) |
-| [![Telegram](https://img.shields.io/badge/Telegram-@theDagestani-26A5E4?logo=telegram&logoColor=white)](https://t.me/theDagestani) |
 
 📍 Москва · ✉️ [k.kerimow@yandex.ru](mailto:k.kerimow@yandex.ru)
 
